@@ -2,7 +2,8 @@
 	"name": "my-portfolio-v3",
 	"homepage": ".",
 	"version": "1.0.0",
-	"private": true,
+	"private": false,
+	"license": "GPL-2.0-only",
 	"description": "my-portfolio-v3",
 	"author": "Igor Michalak",
 	"keywords": [
